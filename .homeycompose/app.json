@@ -1,5 +1,5 @@
 {
-  "id": "nl.aartse.duco",
+  "id": "nl.martijndeh.duco",
   "version": "1.11.0",
   "compatibility": ">=12.3.0",
   "sdk": 3,
@@ -7,8 +7,8 @@
     "local"
   ],
   "name": {
-    "en": "DUCO",
-    "nl": "DUCO"
+    "en": "DUCO (old firmware)",
+    "nl": "DUCO (oud firmware)"
   },
   "description": {
     "en": "Duco, a Home Of Oxygen for a World of Oxygen.",
